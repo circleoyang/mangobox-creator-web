@@ -1,0 +1,4 @@
+MangoBox Creator Web
+Version: 0.5.0-pre.2.5-web.1
+Source baseline: MangoBox Creator 0.5.0-pre.2.5
+Build mode: manual local staging
