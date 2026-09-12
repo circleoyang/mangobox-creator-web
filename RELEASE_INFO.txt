@@ -1,4 +1,6 @@
 MangoBox Creator Web
-Version: 0.5.0-pre.2.5-web.1
-Source baseline: MangoBox Creator 0.5.0-pre.2.5
-Build mode: manual local staging
+Version: 0.6.0-dev.1-web.1
+Source baseline: MangoBox Creator 0.6.0-dev.1
+Source branch: feature/creator-v0.6-alignment
+Source commit: dd05eac3
+Build mode: manual local publish
